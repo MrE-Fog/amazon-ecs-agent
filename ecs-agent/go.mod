@@ -7,7 +7,7 @@ require (
 	github.com/cihub/seelog v0.0.0-20170130134532-f561c5e57575
 	github.com/container-storage-interface/spec v1.8.0
 	github.com/didip/tollbooth v4.0.2+incompatible
-	github.com/docker/docker v20.10.24+incompatible
+	github.com/docker/docker v24.0.7+incompatible
 	github.com/golang/mock v1.4.1
 	github.com/gorilla/mux v1.8.0
 	github.com/gorilla/websocket v1.5.0
